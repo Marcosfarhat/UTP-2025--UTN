@@ -7,9 +7,10 @@ using namespace std;
 
 int main()
 {
-//int a=0,b=0,c=0,d=0,e=0,f=0,g=0,h=0,i=0,j=0,k=0,m=0,n=0,l=0,o=0,p=0,q=0,x=0;
+// Version 1
+// int a=0,b=0,c=0,d=0,e=0,f=0,g=0,h=0,i=0,j=0,k=0,m=0,n=0,l=0,o=0,p=0,q=0,x=0;
 bool a=0,b=0,c=0,d=0,e=0,f=0,g=0,h=0,i=0,j=0,k=0,m=0,n=0,l=0,o=0,p=0,q=0;
-//bool a,b,c,d,e,f,g,h,i,j,k,m,n,l,o=0,p,q;
+
 int x;
 
 for (int z=1;z<100;z++){
