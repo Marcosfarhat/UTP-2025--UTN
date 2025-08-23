@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int  a;
+    float b;
+
+    cout << "Venta : "<< endl;
+    cin >> a;
+    cout << "Porcentaje de descuento: " << endl;
+    cin >> b;
+    a = a- b/100*a;
+
+    cout << "A pagar : "<< a<< endl;
+
+
+return 0;
+}

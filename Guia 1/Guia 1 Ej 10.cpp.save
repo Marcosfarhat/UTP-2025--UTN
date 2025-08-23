@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main(){
+    int a,b;
+     cout<< "Ingrese los mintuos :"<< endl;
+     cin>> a;
+     b=a/24 ;
+     a= a-b*60;
+
+     cout<< " Serian "<< b<<"Dias  y " <<a<< " Horas"<< endl;
+
+return 0;
+}
