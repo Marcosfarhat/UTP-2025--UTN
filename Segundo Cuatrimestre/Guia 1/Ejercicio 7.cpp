@@ -7,7 +7,7 @@ int main(){
    cout<< "Ingrese el descuento :";
    cin >> descuento;
 
-   cout<< " El total a pagar es "<< importe - ((100*descuento)/importe )<< endl;
+   cout<< " El total a pagar es "<< importe - ((100*descuento)/importe)<< endl;
 
     return 0;
 }
